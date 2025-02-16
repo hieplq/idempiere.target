@@ -1,1 +1,1 @@
-Explain [here](org.idempiere.p2.targetplatform.mirror.12.target)
+Explain [here](https://hieplq.github.io/docs/my-space/idempiere/mirrorTargetPlatform)
